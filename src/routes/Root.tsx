@@ -1,12 +1,12 @@
 import { useState } from "react";
 
 import { MainLayout } from "../layouts/MainLayout";
-import { UsersTableBasic } from "../components/UsersTableBasic/UsersTableBasic";
+import { UsersTableMui } from "../components/UsersTableBasic/UsersTableMui";
 
 export const Root = () => {
   return (
     <div>
-      <UsersTableBasic></UsersTableBasic>
+      <UsersTableMui></UsersTableMui>
     </div>
   );
 };
