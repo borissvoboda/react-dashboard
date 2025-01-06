@@ -1,0 +1,10 @@
+#chat-tab {
+  position: fixed;
+  bottom: 0px; /* Distance from the bottom of the viewport */
+  right: 20px; /* Distance from the right of the viewport */
+
+  background-color: #505050;
+  border-radius: 10px 10px 0px 0px;
+  padding: 10px;
+  width: 15rem;
+}
